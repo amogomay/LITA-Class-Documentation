@@ -1,2 +1,4 @@
 # LITA_Class_Documentation
-A documentation of my first project in Data Analysis with Incubator Hub.
+## A documentation of my first project in Data Analysis with Incubator Hub.
+
+### Project Title: Data Entry using Excel
