@@ -3,7 +3,7 @@
 
 ### Project Title: Data Entry using Excel
 
-### project overview
+### project overview.
 ---
 This project Analysis aims to generate insight on data entry using excel spreadsheet.
 
