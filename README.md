@@ -25,6 +25,8 @@ in the phase of the Dat cleaning and preparations, we perform the following task
   2. Handling missing variables
   3. Data cleaning and formatting
 
+  4. https://github.com/amogomay/LITA-Class-Documentation/blob/main/Excel%20Shortcuts%20Keys%20(1).docx
+
 ### Exploratory Data Analysis
 EDA involved the exploring of the Data to answer some questions about Data such as;
  - What is the overall trend
