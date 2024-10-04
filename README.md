@@ -88,6 +88,6 @@ It is a Data visualisation and Business Intelligence tool that converts data fro
 - Excel
 - Acces
 - Cloud
-- Azure etc
+- Azure etc.
 
   
