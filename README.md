@@ -15,7 +15,8 @@ The primary source of data is LITA incubator Hub and Data Sale.csv and this is a
   1. For Data Entry and Cleaning
   2. For Analysis 
   3. For visualisation
-- SQL-Structured Query Language for Querying of Data
+- SQL-Structured Query Language for Querying of Data  
+
 - GitHub for Portfolio building.
 - Power BI for data Manipulation and Visualisation
 
